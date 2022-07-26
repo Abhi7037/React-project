@@ -1,0 +1,46 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+.logo {
+  width: 12rem;
+}
+.bcg {
+  background-image: url(../../public/images/dsds.jpg);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+.profile {
+  display: flex;
+  justify-content: end;
+  gap: 1em;
+  margin-right: 3em;
+  margin-top: -8rem;
+}
+.btn {
+  background-color: rgb(188, 235, 255);
+  height: 2.8rem;
+  width: 5rem;
+  border-radius: 0.5em;
+}
+ 
+.icon {
+  font-size: 50px;
+  width: fit-content;
+  padding: 1rem;
+  margin-left: 47rem;
+  /* border: 1px solid black; */
+}
+.footer{
+  margin-top: 5rem;
+}
+.containerCard{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 3rem;
+}
+.scroll{
+  margin-top: 40rem;
+  margin-left: 45rem;
+}

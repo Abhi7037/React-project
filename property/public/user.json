@@ -1,0 +1,57 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "username": "abhishek",
+      "email": "aa@gmail.com",
+      "password": "abhis12",
+      "id": 3
+    },
+    {
+      "username": "nitesh",
+      "email": "nn@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "username": "shivam",
+      "email": "shivam@gmail.com",
+      "password": "45245",
+      "id": 5
+    },
+    {
+      "username": "aman",
+      "email": "aman@gmail.com",
+      "password": "abhishek",
+      "id": 6
+    },
+    {
+      "username": "boy",
+      "email": "boy@gmail.com",
+      "password": "abhishek",
+      "id": 7
+    },
+    {
+      "username": "gurusir",
+      "email": "guru@gmail.com",
+      "password": "abhi123",
+      "id": 8
+    },
+    {
+      "username": "Abhishek",
+      "email": "chauhanabhi@gmail.com",
+      "password": "123456",
+      "id": 9
+    }
+  ]
+}

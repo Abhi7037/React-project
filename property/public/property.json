@@ -1,0 +1,60 @@
+{
+  "property": [
+    {
+      "Propertytype": "House",
+      "OWNERNAME": "Nitesh Awasthi",
+      "PURPOSE": "Sell",
+      "ADDRESS": "Kanpur",
+      "RATE": "50 lakh/-",
+      "id": 4
+    },
+    {
+      "Propertytype": "Hotel",
+      "OWNERNAME": "Aman Pandey",
+      "PURPOSE": "Sell",
+      "ADDRESS": "New Delhi",
+      "RATE": "65 lakh/-",
+      "id": 6
+    },
+    {
+      "Propertytype": "Banquet hall",
+      "OWNERNAME": "Kamran",
+      "PURPOSE": "Sell",
+      "ADDRESS": "Indrapura Agra",
+      "RATE": "85 lakh/-",
+      "id": 7
+    },
+    {
+      "Propertytype": "Building",
+      "OWNERNAME": "Shivam",
+      "PURPOSE": "RENT ",
+      "ADDRESS": "Hyderabad",
+      "RATE": "1 cr/-",
+      "id": 8
+    },
+    {
+      "Propertytype": "3 BHK Home",
+      "OWNERNAME": "Deepak",
+      "PURPOSE": "Rent",
+      "ADDRESS": "India",
+      "RATE": "11500/-",
+      "id": 9
+    },
+    {
+      "Propertytype": "2 BHK House",
+      "OWNERNAME": "Tanu",
+      "PURPOSE": "Rent",
+      "ADDRESS": "Bodla Agra",
+      "RATE": "4500/-",
+      "id": 11
+    },
+    {
+      "Propertytype": "Hotel",
+      "OWNERNAME": "Abhishek  Chauhan",
+      "PURPOSE": "Sell",
+      "ADDRESS": "Sanjay Palace Agra",
+      "RATE": "5 cr/-",
+      "id": 12
+    }
+  ]
+}
