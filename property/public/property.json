@@ -2,10 +2,10 @@
   "property": [
     {
       "Propertytype": "House",
-      "OWNERNAME": "Nitesh Awasthi",
-      "PURPOSE": "Sell",
-      "ADDRESS": "Kanpur",
-      "RATE": "50 lakh/-",
+      "OWNERNAME": "Nitesh",
+      "PURPOSE": "Rent ",
+      "ADDRESS": "Agra",
+      "RATE": "11500/-",
       "id": 4
     },
     {

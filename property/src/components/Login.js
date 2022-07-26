@@ -3,9 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import "./comp.css";
 import axios from "axios";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
-
+ 
 const Login = () => {
   const navigate = useNavigate();
   const {
@@ -23,10 +21,10 @@ const Login = () => {
       });
       if (isLogin) {
         localStorage.setItem("email", data.email);
-        toast("Log-In Successfully");
+        alert("Log-In Successfully");
         navigate("/");
       } else {
-        toast("Enter Valid Credentials");
+        alert("Enter Valid Credentials");
       }
     });
   };
@@ -70,7 +68,7 @@ const Login = () => {
                   placeholder="Enter Your Email"
                   name="email"
                   className="logininput"
-                  {...register("email", { required: true })}
+                  {...register("email", { required: true})}
                 />
                 <br />
                 {errors.email && (
@@ -92,7 +90,7 @@ const Login = () => {
                 />
                 <br />
                 {errors.password && (
-                  <span className="text-red-600">*Please Enter Email</span>
+                  <span className="text-red-600">Password is Mandatory *</span>
                 )}
                 <br />
               </div>
@@ -103,7 +101,7 @@ const Login = () => {
           </div>
         </div>
       </div>
-      <ToastContainer />
+   
     </>
   );
 };
